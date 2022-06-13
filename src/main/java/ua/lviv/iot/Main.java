@@ -2,7 +2,7 @@ package ua.lviv.iot;
 
 import java.util.Scanner;
 
-import Regex.CarNumberChanger;
+import ua.lviv.iot.Regex.CarNumberChanger;
 
 public class Main {
 

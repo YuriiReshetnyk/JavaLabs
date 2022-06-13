@@ -1,7 +1,8 @@
-package Regex;
+package ua.lviv.iot.Regex;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+
 class CarNumberChangerTest {
 
 	@Test
